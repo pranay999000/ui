@@ -24,7 +24,7 @@
             android:layout_gravity="center"
             app:neumorph_shapeAppearance="@style/round_corners"
             android:src="@drawable/apple"
-            android:padding="12dp" />
+            android:padding="24dp" />
 
     </soup.neumorphism.NeumorphCardView>
 
