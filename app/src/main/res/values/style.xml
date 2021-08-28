@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="round_corners" parent="Widget.Neumorph.CardView">
+        <item name="neumorph_cornerFamily">oval</item>
+        <item name="neumorph_cornerSize">62dp</item>
+    </style>
+</resources>

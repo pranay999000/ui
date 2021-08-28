@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "341666818898",
+    "firebase_url": "https://tynee-fc4ba-default-rtdb.firebaseio.com",
+    "project_id": "tynee-fc4ba",
+    "storage_bucket": "tynee-fc4ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341666818898:android:e02f92d86a4635ca35a88b",
+        "android_client_info": {
+          "package_name": "com.example.tynee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341666818898-ar4e23kpmoas7ulmnkpfcehflqkiemq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tynee",
+            "certificate_hash": "ac7906b8c210883d60897b216db22195dbd505ee"
+          }
+        },
+        {
+          "client_id": "341666818898-gi44numofbstrqa3vp475ou96c2vhjbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCns7NLl1JXKRU4cNWi6EzqoSyoZA6d030"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341666818898-gi44numofbstrqa3vp475ou96c2vhjbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341666818898:android:36146f689527b90b35a88b",
+        "android_client_info": {
+          "package_name": "com.example.ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341666818898-gi44numofbstrqa3vp475ou96c2vhjbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCns7NLl1JXKRU4cNWi6EzqoSyoZA6d030"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341666818898-gi44numofbstrqa3vp475ou96c2vhjbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
